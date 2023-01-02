@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.how_to_integrate_google_sign_in_and_oauth_into_your_flutter_apps">
+    package="com.example.hack_proof_app">
    <application
-        android:label="how_to_integrate_google_sign_in_and_oauth_into_your_flutter_apps"
+        android:label="hack_proof_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

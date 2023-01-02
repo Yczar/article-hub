@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:how_to_integrate_google_sign_in_and_oauth_into_your_flutter_apps/app.dart';
+import 'package:hack_proof_app/app.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
